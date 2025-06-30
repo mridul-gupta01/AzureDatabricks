@@ -1,2 +1,2 @@
 1st msg
-update1 of feat/home.
+update 1 on both.
